@@ -103,7 +103,7 @@ _No standard method_
 	<p>Maintaining <a aria-describedby="footnote-label" href="#footnotes" id="footnotes-ref">footnotes</a> manually can be a pain.</p>
 	
 	<ol>
-  		<li id="footnotes">Footnotes are notes placed at the bottom of a page. 
+  		<li id="footnotes">Footnotes are notes placed at the bottom of a page. They cite references or comment on a designated part of the text above it. <a href="#footnotes-ref" aria-label="Back to content">↩</a></li>
 	</ol>
 
 Possible approaches: 
