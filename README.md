@@ -2,6 +2,8 @@
 
 ![xkcd](thesis_defense_2x.png)
 
+## Small Round of Introductions
+
 ## The Assignment
 
 Conceive, write and design your thesis for the following media:
@@ -47,7 +49,7 @@ The Black Book by Jean Keller (2013)
 
 You find a lot more [here](http://p-dpa.net/tech/pod/).
 
-## Open day
+## Open day (TBD)
 
 ![unboxing](unboxing.jpg)
 
@@ -98,8 +100,7 @@ You should have a Github account by now and I should have added you to the KABK 
 
 _No standard method_
 
-	<p>Maintaining <a aria-describedby="footnote-label" href="#footnotes" id="footnotes-ref">footnotes</a> 
-manually can be a pain.</p>
+	<p>Maintaining <a aria-describedby="footnote-label" href="#footnotes" id="footnotes-ref">footnotes</a> manually can be a pain.</p>
 	
 	<ol>
   		<li id="footnotes">Footnotes are notes placed at the bottom of a page. 
@@ -112,3 +113,9 @@ Possible approaches:
 - vanilla javascript: https://goblindegook.github.io/littlefoot/
 - Tufte CSS: https://edwardtufte.github.io/tufte-css/ 
 - custom solution: http://contemporary-home-computing.org/affordance/
+
+**Questions?**
+
+## 🍔 🍔 🍔
+
+## Thomas
