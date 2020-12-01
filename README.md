@@ -81,27 +81,27 @@ Please write to me either via email (s.lorusso [at] kabk [dot] nl) or Teams to l
 
 ## Example of schedule slots for the coming weeks
 
-10:00 
-10:20
-10:40
-11:00
-11:20
-11:40
-12:00
+- 10:00 
+- 10:20
+- 10:40
+- 11:00
+- 11:20
+- 11:40
+- 12:00
 
 20 min break
 
-12:40
-13:00
-13:20
+- 12:40
+- 13:00
+- 13:20
 
 60 min lunch break
 
-14:40
-15:00
-15:20
-15:40
-16:00
+- 14:40
+- 15:00
+- 15:20
+- 15:40
+- 16:00
 
 
 
