@@ -11,7 +11,7 @@ Conceive, write and design your thesis for the following media:
 1. **web** (HTML/CSS/JavaScript, distribution: git/Github)
 2. **print** (HTML/CSS, distribution: Pumbo/Print on Demand)
 
-Unbox and present you theses during the **Open Day** (??/01/2020)
+Unbox and present you theses during the **Open Day** (22/01/2020)
 
 ## Mobile First (and Only)
 
@@ -53,7 +53,7 @@ You find a lot more [here](http://p-dpa.net/tech/pod/).
 
 ![unboxing](unboxing.jpg)
 
-During the Open Day (??/01/2020) we will do a public performance consisting in displaying and 'unboxing' the printed theses.
+During the Open Day (22/01/2020) we will do a public online performance consisting in 'unboxing' the printed theses and browsing the mobile ones.
 
 ![unboxing](unboxing-2.png)
 
@@ -61,7 +61,7 @@ We will also organize a small program of public presentations of the theses.
 
 ## Extra-Team
 
-Who wants to design the **landing page** for this year's theses? Here you can see [2019](https://kabk.github.io/go-theses-19/) and [2018](https://kabk.github.io/go-theses-18/) versions.
+Who wants to design the **landing page** for this year's theses? Here you can see [2020](https://kabk.github.io/go-theses-20/), [2019](https://kabk.github.io/go-theses-19/) and [2018](https://kabk.github.io/go-theses-18/) versions.
 
 Also, who wants to organize the **unboxing** during the Open Day?
 
@@ -71,15 +71,14 @@ Please write to me either via email (s.lorusso [at] kabk [dot] nl) or Teams to l
 
 ## Deadlines
 
-**22/12/2019**: you have talked to Silvio and Thomas at least once and you have a sound direction for the design (both in print and web) of your thesis
+**23/12/2019**: you have talked to Silvio and Thomas at least once and you have a sound direction for the design (both in print and web) of your thesis
 
-**??/01/2020**: your print design is ready so there is time to send it to Pumbo to ave it printed on demand
+**20/01/2020**: both your print and web designs are ready for the Open Day, which means that the websites are published on Github and thus accessible online
 
-**24/01/2020**: both your print and web designs are ready for the Individual Feedback, which means that the websites are published on Github and thus accessible online
+**22/01/2020**: Open Day, unboxing and presentations
 
 **28-9/01/2020**: the collectives take place
 
-**??/01/2020**: Open Day, unboxing and presentations
 
 ## Tips
 
