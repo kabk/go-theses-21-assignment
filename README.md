@@ -21,6 +21,8 @@ This means that we will keep in mind the limits and affordances of mobile phones
 
 Working with the mobile sensors (camera, gyroscope, etc.) is possible but generally difficult with websites), so it's discouraged.
 
+Dynamic landing page in the mobile website.
+
 ## Print on Demand
 
 We will use [Pumbo](https://www.pumbo.nl/kosten/boek-maken/drukken-in-grote-oplage/paperback) to print the theses.
