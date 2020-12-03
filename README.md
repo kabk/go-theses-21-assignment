@@ -21,8 +21,6 @@ This means that we will keep in mind the limits and affordances of mobile phones
 
 Working with the mobile sensors (camera, gyroscope, etc.) is possible but generally difficult with websites), so it's discouraged.
 
-You will also design a **digital dynamic poster** summarizing the content and arguments of your thesis. The posters will be presented during the collectives.
-
 ## Print on Demand
 
 We will use [Pumbo](https://www.pumbo.nl/kosten/boek-maken/drukken-in-grote-oplage/paperback) to print the theses.
