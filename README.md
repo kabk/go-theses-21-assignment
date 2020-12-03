@@ -11,7 +11,7 @@ Conceive, write and design your thesis for the following media:
 1. **web** (HTML/CSS/JavaScript, distribution: git/Github)
 2. **print** (HTML/CSS, distribution: Pumbo/Print on Demand)
 
-Unbox and present you theses during the **Open Day** (22/01/2020)
+Unbox and present you theses during the **Open Day** (22/01/2021)
 
 ## Mobile First (and Only)
 
@@ -71,13 +71,13 @@ Please write to me either via email (s.lorusso [at] kabk [dot] nl) or Teams to l
 
 ## Deadlines
 
-**23/12/2019**: you have talked to Silvio and Thomas at least once and you have a sound direction for the design (both in print and web) of your thesis
+**07/01/2021**: you have talked to Silvio and Thomas at least once and you have a sound direction for the design (both in print and web) of your thesis
 
-**20/01/2020**: both your print and web designs are ready for the Open Day, which means that the websites are published on Github and thus accessible online
+**20/01/2021**: both your print and web designs are ready for the Open Day, which means that the websites are published on Github and thus accessible online
 
-**22/01/2020**: Open Day, unboxing and presentations
+**22/01/2021**: Open Day, unboxing and presentations
 
-**28-9/01/2020**: the collectives take place
+**28-9/01/2021**: the collectives take place
 
 ## Example of schedule slots for the coming weeks
 
